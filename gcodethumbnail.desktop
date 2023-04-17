@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+Name=GCODE files
+X-KDE-ServiceTypes=ThumbCreator
+MimeType=model/gcode;text/x.gcode
+X-KDE-Library=gcodethumbnail
+CacheThumbnail=true
+ThumbnailerVersion=2
